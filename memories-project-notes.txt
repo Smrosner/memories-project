@@ -3,7 +3,7 @@ Full Stack MERN Projectt - Build and Deploy an App | React + Redux, Node, Expres
 https://www.youtube.com/watch?v=ngc9gnGgUdA
 
 Time:
-15:11/1:15:39
+18:35/1:15:39
 
 Server commands:
 npm init -y
